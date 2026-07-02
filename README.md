@@ -49,15 +49,10 @@ The direct file hierarchy and structure verified inside this repository:
 
 ```text
 📂 Machine-learning-Internship
- ┣ 📂 Assignments                      # Core structured internship tasks
- ┃ ┣ 📂 Assignment 1                   # Initial assignments & exploratory analysis
- ┃ ┣ 📂 Assignment 2                   # Feature extraction frameworks
- ┃ ┗ 📂 Assignment 3                   # Model building & performance tracking
- ┣ 📂 Projects                         # End-to-end Machine Learning implementations
- ┃ ┗ 📂 Project 1                      # Predictive models and evaluation metrics
- ┣ 📂 Datasets                         # Sourced CSV structures & test matrices
- ┣ 📜 .gitignore                       # System and cache exclusion protocols
- ┗ 📜 README.md                        # Portfolio Engine Documentation (Active)
+ ┣ 📂 Module-1_Python Basics       # Pandas, NumPy ( Data Manipulation and Analysis )
+ ┣ 📂 Module-1_Worksheet           # Worksheet_Numpy
+ ┣ 📜 LICENSE                      # GPL-3.0 license
+ ┗ 📜 README.md                     # Documentation
 
 ```
 
