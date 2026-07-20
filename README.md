@@ -70,17 +70,6 @@ The direct file hierarchy and structure verified inside this repository:
 
 ---
 
-## 📈 Optimization Breakdown
-
-```
-🔍 Feature Engineering  █████████████████████████ 100%
-📊 Model Evaluation     ██████████████████████░░░ 88%
-⚙️ Pipeline Automation  ██████████████████░░░░░░ 75%
-
-```
-
----
-
 ## ⚙️ Local Execution Guide
 
 Replicate the environment and step through the codebase on your machine:
